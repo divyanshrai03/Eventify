@@ -13,7 +13,7 @@ export const headerLinks = [
     },
   ]
   
-  export const eventDefaultValues = {
+export const eventDefaultValues = {
     title: '',
     description: '',
     location: '',
@@ -23,5 +23,5 @@ export const headerLinks = [
     categoryId: '',
     price: '',
     isFree: false,
-    url: '',
-  }
+  url: '',
+}
